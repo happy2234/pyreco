@@ -1,0 +1,7 @@
+click==8.1.7
+dlib @ file:///home/conda/feedstock_root/build_artifacts/dlib-split_1723250839594/work
+face-recognition==1.3.0
+face_recognition_models==0.3.0
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1687808301083/work
+opencv-python==4.10.0.84
+pillow==10.4.0
