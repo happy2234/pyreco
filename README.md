@@ -19,8 +19,4 @@ Whether you're a beginner eager to learn about face recognition technology or an
 - OpenCV
 - NumPy
 
-## Usage
 
-Run the application with:
-```bash
-python main.py
